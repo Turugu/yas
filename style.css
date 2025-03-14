@@ -1,0 +1,10 @@
+.Galeria {
+    display: flex;
+    gap: 10px;
+}
+
+.Fotoyas {
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+}
